@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagura-maurice/nodeApp.git"
+  },
+  "author": "Wagura Maurice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagura-maurice/nodeApp/issues"
+  },
+  "homepage": "https://github.com/wagura-maurice/nodeApp#readme"
+}
